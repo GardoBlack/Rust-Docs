@@ -1,0 +1,7 @@
+# .gitattributes
+
+# Rust files
+*.rs linguist-language=Rust
+
+# Ignore whitespace for Rust files
+*.rs -whitespace
